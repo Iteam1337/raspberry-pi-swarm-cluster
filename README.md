@@ -1,7 +1,7 @@
 # raspberry-pi-swarm-cluster
 Scripts and notes for playing with raspberry pi, hypriot and docker swarm
 
-
+![pi-cluster](/IMG_20161002_102411.jpg)
 
 # Flash
 
