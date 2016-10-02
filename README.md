@@ -5,7 +5,11 @@ Scripts and notes for playing with raspberry pi, hypriot and docker swarm
 
 # Flash
 
+Use the flash utility (https://github.com/hypriot/flash) to install hypriot on the memory card(s).
 
+```
+sudo flash --hostname swarm-master https://github.com/hypriot/image-builder-rpi/releases/download/v1.0.1/hypriotos-rpi-v1.0.1.img.zip
+```
 
 # Inspiration
 
